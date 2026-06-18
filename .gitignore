@@ -1,3 +1,5 @@
 telsnode_modules/
 .env
+.DS_Storenode_modules/
+.env
 .DS_Store
