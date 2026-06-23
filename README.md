@@ -11,7 +11,7 @@ A MERN Stack based Stock Trading Platform that allows users to:
 
 ## Documentation
 
-Project documents are available under the `/docs` folder.
+Project documents are available above
 
 ### Design Documents
 
